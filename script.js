@@ -8,7 +8,7 @@ function validateForm() {
       return false;
     }
   
-    window.location.href = "/sign-in/sign-in.html";
+    window.location.href = "sign-in.html";
     return false;
   }
   
