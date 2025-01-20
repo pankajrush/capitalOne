@@ -7,7 +7,7 @@ function validateform() {
       return false;
     }
   
-    window.location.href = "../important.html";
+    window.location.href = "./important.html";
     return false;
   }
   
