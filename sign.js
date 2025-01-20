@@ -8,6 +8,6 @@ function validateForm() {
     return false;
   }
 
-  window.location.href = "/two-step/two-step-varification.html";
+  window.location.href = "two-step-varification.html";
   return false;
 }
